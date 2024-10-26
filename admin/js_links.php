@@ -30,3 +30,6 @@
     <script src="vendor/svganimation/vivus.min.js"></script>
     <script src="vendor/svganimation/svg.animation.js"></script>
     <script src="js/styleSwitcher.js"></script>
+
+    <!-- Custom Js link -->
+     <script src="js/app.js"></script>
